@@ -56,7 +56,7 @@ function MoviesList() {
                   e.stopPropagation();
                 }}
               >
-                Remove Movie{" "}
+                Remove Movie
               </button>
             </li>
           ) : (
